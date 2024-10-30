@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I am currently a student at HCMUTE.**
+ 🔭 I am currently a student at HCMUTE.
  
- 🌱 I’m currently learning **BackEnd, BigData**
+ 🌱 I’m currently learning BackEnd, BigData
 
 💬 Ask me about **Python, Java, Js, C#... or anything [here](https://www.facebook.com/profile.php?id=100070862058531)**
 
