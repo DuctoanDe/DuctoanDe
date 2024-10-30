@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ndtoande/" target="_blank">
-    <img src="[https://www.linkedin.com/in/ndtoande/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank" />
+    <img src="https://www.linkedin.com/in/ndtoande/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank" />
   </a>
   
 </div>
@@ -35,13 +35,16 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
-    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
-    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
-    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></div>
-    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></div>
-    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>
+    <div style="display: flex; align-items: flex-start; gap: 10px;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C# icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" />
+    </div>
 </div>
+
 
 <br/>
 <hr/>
