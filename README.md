@@ -16,7 +16,7 @@
 
 💬 Ask me about **Python, Java, Js, C#... or anything [here](https://www.facebook.com/profile.php?id=100070862058531)**
 
-⚡Connect with me:**
+⚡**Connect with me:**
 
  </div>
  
