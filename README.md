@@ -34,16 +34,17 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="center" style="background-color: #333; padding: 20px;">
     <div style="display: flex; align-items: flex-start; gap: 10px;">
-         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" style="border: 2px solid #fff; border-radius: 8px;" /> 
-         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="65" height="65" style="border: 2px solid #fff; border-radius: 8px;" />
-         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" style="border: 2px solid #fff; border-radius: 8px;" />
-         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" style="border: 2px solid #fff; border-radius: 8px;" />
-         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C# icon" width="65" height="65" style="border: 2px solid #fff; border-radius: 8px;" />
-         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" style="border: 2px solid #fff; border-radius: 8px;" />
+         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" style="border: 4px solid #fff; border-radius: 8px;" /> 
+         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="65" height="65" style="border: 4px solid #fff; border-radius: 8px;" />
+         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" style="border: 4px solid #fff; border-radius: 8px;" />
+         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" style="border: 4px solid #fff; border-radius: 8px;" />
+         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C# icon" width="65" height="65" style="border: 4px solid #fff; border-radius: 8px;" />
+         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" style="border: 4px solid #fff; border-radius: 8px;" />
     </div>
 </div>
+
 <br/>
 <hr/>
 
