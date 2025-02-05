@@ -39,11 +39,8 @@
          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" style="border: 4px solid #FFD700; border-radius: 8px;" />
          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" style="border: 4px solid #FFD700; border-radius: 8px;" />
          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C# icon" width="65" height="65" style="border: 4px solid #FFD700; border-radius: 8px;" />
-         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px;height: 65px; margin-right: Opx; margin-bottom: 0px;" />
          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" style="border: 4px solid #FFD700; border-radius: 8px;" />
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: Opx;
-margin-bottom: 0px;" />
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px;
 margin-bottom: 0px;" />
     </div>
 </div>
